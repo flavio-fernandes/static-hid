@@ -1,5 +1,5 @@
 # static-hid
-Circuit Python based capacitive touch trigger for static keyboard strings
+CircuitPython based capacitive touch trigger for static keyboard strings
 
 This is an easy project for using the
 [Adafruit Neo Trinkey](https://www.adafruit.com/product/4870) as
@@ -9,7 +9,7 @@ a keyboard to type in static strings based on capacitive touch.
     
 In order to get going, do the following:
 
-1) [Install Circuit Python](https://learn.adafruit.com/adafruit-neo-trinkey/circuitpython#circuitpython-quickstart-3087052-2)
+1) [Install CircuitPython](https://learn.adafruit.com/adafruit-neo-trinkey/circuitpython#circuitpython-quickstart-3087052-2)
 on the device.
 2) Create a file called secrets.py that contains the strings you want to be typed when you touch one of the 2 sensors.
 Use [secrets.py.sample](https://github.com/flavio-fernandes/static-hid/blob/main/secrets.py.sample) as a reference.
